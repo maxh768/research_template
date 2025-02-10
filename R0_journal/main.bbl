@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Falck et~al.(2021)Falck, Gray, Ponnapalli, and Wright}]{Falck2021}
+Falck, R., Gray, J.~S., Ponnapalli, K., and Wright, T., \enquote{dymos: A Python package for optimal control of multidisciplinary systems,} \emph{Journal of Open Source Software}, Vol.~6, No.~59, 2021, p. 2809.
+\newblock \doi{10.21105/joss.02809}.
+
+\end{thebibliography}
