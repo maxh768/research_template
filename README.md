@@ -1,2 +1,3 @@
 # research_template
-Template github repo for research projects, contains LaTeX template.
+Github repo for research projects. Contains LaTeX template for a journal article for convience. 
+
